@@ -1,4 +1,4 @@
-👋 Hi, I’m @sanmathi-ya
+👋 Hi, I’m @Sanmathi17
 👀 I’m interested in building exciting projects and contributing to open source
 🌱 I’m currently exploring AI domain
 💞️ I’m looking to collaborate on dynamic projects on web development or any related fields
